@@ -165,7 +165,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+database.ini
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -202,7 +202,7 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
-
+.idea
 # PyPI configuration file
 .pypirc
 
